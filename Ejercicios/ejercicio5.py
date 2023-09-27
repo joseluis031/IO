@@ -1,5 +1,5 @@
 # Modelo 1b
-# Importar el módulo SymPy
+# Importar el módulo SymPy 
 import sympy as sym
 from sympy import symbols
 from sympy.plotting import plot
