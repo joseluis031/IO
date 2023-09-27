@@ -1,6 +1,6 @@
 from scipy.optimize import linprog
 
-# Coeficientes de la función objetivo (maximizar D + 2E)
+# Coeficientes de la función objetivo (maximizar D + 2E).
 c = [-1, -2]
 
 # Coeficientes de las restricciones (E + D ≤ 10, D = 2E, E ≤ 1, D ≤ 4)
